@@ -5,6 +5,11 @@ h1, h2, h6 {
   font-weight: 300;
 }
 
+.sm-logo {
+  opacity: 0.9;
+  filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+
 /* Links */
 a,
 a:focus,
