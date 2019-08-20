@@ -1,0 +1,28 @@
+{
+  "name": "skt-website",
+  "version": "1.0.0",
+  "description": "skt-website",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "bootstrap": "^4.3.1",
+    "html5-boilerplate": "^7.2.0",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocean/skt-website.git"
+  },
+  "author": "Meghan Gaudet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mocean/skt-website/issues"
+  },
+  "homepage": "https://github.com/mocean/skt-website#readme"
+}
